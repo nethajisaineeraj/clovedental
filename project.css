@@ -1,0 +1,196 @@
+*{
+    box-sizing: border-box;
+}
+
+.logo-contact-bar{
+    width: 100vw;
+    height: 80px;
+    top: 40px;
+    background: var(--Beige-BK, #FFFAF5);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 25px;
+}
+
+.logo-styles{
+    width: 101px;
+    height: 41px;
+    top: 19px;
+    left: 16px;
+
+}
+.bar-buttons{
+    width: 366.0000915527344px;
+    height: 38px;
+    gap: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.contact-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 154.00009155273438px;
+    height: 38px;
+    top: 21px;
+    left: 220px;
+    border-radius: 70px;
+    border-width: 1px;
+    padding-top: 8px;
+    padding-right: 12px;
+    padding-bottom: 8px;
+    padding-left: 12px;
+    gap: 12px;
+    background: #FFFFFF;
+    border: 1px solid var(--Brown, #462512);
+}
+.phone-icon{
+    width: 12.000088691711426px;
+    height: 20.9981632232666px;
+}
+.contact-number-styles{
+    width: 106px;
+    height: 11px;
+    font-family: Figtree;
+    font-weight: 600;
+    font-size: 16px;
+    leading-trim: Cap height;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #1A1A1A;
+    margin-left: 5px;
+}
+.Banner-section{
+    background-image: url("empty-stomatology-orthodontist-bright-office-room-with-nobody-it 1.png");
+    background-size: cover;
+    width: 100vw;
+    height: 417px;
+    backdrop-filter: blur(8px);
+    display: flex;
+    flex-direction: column;
+}
+.Banner-section-logos-container{
+    align-self: flex-end;
+    width: 210px;
+    height: 45.97633361816406px;
+    top: 0.02px;
+    left: 180px;
+    padding-top: 9.94px;
+    padding-right: 19.88px;
+    padding-bottom: 9.94px;
+    padding-left: 19.88px;
+    gap: 6.21px;
+    border-bottom-left-radius: 12.7px;
+    background: linear-gradient(93.35deg, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0.5) 100%);
+    backdrop-filter: blur(2.4852070808410645px);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.banner-logo-1{
+    width: 52.18935012817383px;
+    height: 23.360946655273438px;
+
+}
+.banner-logo-2{
+    width: 64.61538696289062px;
+    height: 14.165680885314941px;
+
+}
+.banner-logo-3{
+    width: 41.005916595458984px;
+    height: 26.094675064086914px;
+
+}
+.heading-styles{
+    width: 340px;
+    height: 47px;
+    font-family: Figtree;
+    font-weight: 800;
+    font-size: 16px;
+    leading-trim: Cap height;
+    line-height: 110.00000000000001%;
+    letter-spacing: 0%;
+    font-family: Figtree;
+    font-weight: 800;
+    font-size: 16px;
+    leading-trim: Cap height;
+    line-height: 110.00000000000001%;
+    letter-spacing: 0%;
+    color: #303030;
+}
+.banner-text-container{
+    width: 100vw;
+    height: 205px;
+    top: 66px;
+    gap: 24px;
+    padding-top: 20px;
+    padding-right: 16px;
+    padding-bottom: 20px;
+    padding-left: 16px;
+    background: #FFFFFF80;
+    margin-top: 30px;
+}
+.span-element-clovedental{
+    color: #EA7D28;
+}
+.banner-description{
+    width: 226px;
+    height: 32px;
+    font-family: Figtree;
+    font-weight: 600;
+    font-size: 16px;
+    leading-trim: Cap height;
+    line-height: 130%;
+    letter-spacing: 0%;
+    color: #525252;
+}
+.bookappointment-button{
+    width: 225px;
+    height: 38px;
+    gap: 20px;
+    padding-top: 8px;
+    padding-right: 24px;
+    padding-bottom: 8px;
+    padding-left: 24px;
+    border-radius: 50px;
+    border-width: 1px;
+    background: #F8943F;
+    border: 1px solid #DE6F0D;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.bookappintment-icon-styles{
+    width: 19px;
+    height: 20.99984359741211px;
+
+}
+.bookappointment-text{
+    width: 138px;
+    height: 11px;
+    font-family: Figtree;
+    font-weight: 600;
+    font-size: 16px;
+    leading-trim: Cap height;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: var(--White, #FFFFFF);
+    
+}
+.doctor-image-styles{
+    width: 216px;
+    height: 280px;
+    top: 114px;
+    left: 416px;
+    angle: -180 deg;
+    align-self: flex-end;
+    margin-top: -145px;
+}
